@@ -4,7 +4,7 @@ BOT POWERFUL FOR YOUR GROUP MANAG TELEGRAM
 <h4><p align="center"> ⭐ M9fwb ⭐ </p></h4>
 
 <p align="center">
-  <img src="https://telegra.ph/file/8098c9b0f89382b8c74a5.jpg">
+  <img src="https://telegra.ph/file/b6c43326d2aba54b16132.jpg">
 </p>
 
 <p align="center">M9fwb is a modular bot running on python3 with autobots theme and have a lot features.</p>
@@ -39,3 +39,7 @@ This Bot is Created by Fwb Project, If your kanging this without fork at least g
 - Emiko Robot
 - Prime Mega
 - TeamKillerX 
+
+<p align="center">
+  <img src="https://telegra.ph/file/ea300e5a51df1cd7414f5.jpg">
+</p>
