@@ -30,14 +30,9 @@ This Bot is Created by Fwb Project, If your kanging this without fork at least g
 ```
 
 ### Contributors
-- [『TØNIC』 乂 ₭ILLΣR](https://github.com/Tonic990) : M9fwb
-- [ Grey </> ](https://github.com/grey423) : M9fwb 
+- [ TeamKillerX </> ](https://github.com/TeamKillerX) : M9fwb 
 
 ### Credit
-- greyCilik_bot
-- Skyzu Robot
-- Emiko Robot
-- Prime Mega
 - TeamKillerX 
 
 <p align="center">
