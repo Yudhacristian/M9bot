@@ -1,5 +1,5 @@
 # M9bot
-Ini uji coba
+BOT POWERFUL FOR YOUR GROUP MANAG TELEGRAM 
 # M9bot
 Ini uji coba
 <h4><p align="center"> ⭐ M9fwb ⭐ </p></h4>
@@ -16,7 +16,7 @@ Ini uji coba
 <a href="https://github.com/psf/black"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg"></a><br>
 <a href="https://docs.telethon.dev"> <img src="https://img.shields.io/badge/Telethon-1.24.0-red?&style=flat-round&logo=github" alt="Telethon" /> </a>
 <a href="https://docs.python.org"> <img src="https://img.shields.io/badge/Python-3.10.4-purple?&style=flat-round&logo=python" alt="Python" /> </a><br>
-<a href="https://GitHub.com/grey423/GreyCilik"> <img src="https://img.shields.io/badge/Maintained-Yes-yellow.svg" alt="Maintenance" /> </a><br>
+<a href="https://github.com/Yudhacristian/M9bot"> <img src="https://img.shields.io/badge/Maintained-Yes-yellow.svg" alt="MAINTENANCE" /> </a><br>
 <a href="https://github.com/grey423/GreyCilik/blob/main/LICENSE"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="License" /> </a>
 <a href="https://makeapullrequest.com"> <img src="https://img.shields.io/badge/PRs-Welcome-blue.svg?style=flat-round" alt="PRs" /> </a>
 </p>
