@@ -1,5 +1,5 @@
 # M9bot
-BOT POWERFUL FOR YOUR GROUP MANAG TELEGRAM 
+BOT POWERFUL FOR YOUR GROUP MANAG TELEGRAM
 # M9bot
 <h4><p align="center"> ⭐ M9fwb ⭐ </p></h4>
 
